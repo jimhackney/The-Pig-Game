@@ -1,0 +1,1 @@
+A non-responsive dice game made with html, css and javascript built to allow me to practice DOM manipulation.
